@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+test_aq
+test_aq.exe
+test_aq.c
+secrets.h
+.env
+.vscode/
